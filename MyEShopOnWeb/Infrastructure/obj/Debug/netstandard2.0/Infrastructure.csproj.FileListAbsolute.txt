@@ -1,0 +1,12 @@
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\Infrastructure\bin\Debug\netstandard2.0\ApplicationCore.dll
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\Infrastructure\bin\Debug\netstandard2.0\ApplicationCore.pdb
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb

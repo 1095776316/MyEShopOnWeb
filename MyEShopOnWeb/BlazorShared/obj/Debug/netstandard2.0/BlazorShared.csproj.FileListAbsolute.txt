@@ -1,0 +1,9 @@
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\BlazorShared\bin\Debug\netstandard2.0\BlazorShared.deps.json
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\BlazorShared\bin\Debug\netstandard2.0\BlazorShared.dll
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\BlazorShared\bin\Debug\netstandard2.0\BlazorShared.pdb
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\BlazorShared\obj\Debug\netstandard2.0\BlazorShared.csprojAssemblyReference.cache
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\BlazorShared\obj\Debug\netstandard2.0\BlazorShared.AssemblyInfoInputs.cache
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\BlazorShared\obj\Debug\netstandard2.0\BlazorShared.AssemblyInfo.cs
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\BlazorShared\obj\Debug\netstandard2.0\BlazorShared.csproj.CoreCompileInputs.cache
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\BlazorShared\obj\Debug\netstandard2.0\BlazorShared.dll
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\BlazorShared\obj\Debug\netstandard2.0\BlazorShared.pdb

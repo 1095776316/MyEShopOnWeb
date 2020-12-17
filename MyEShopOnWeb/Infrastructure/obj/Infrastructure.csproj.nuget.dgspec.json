@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\yangsishui\\Documents\\GitHub\\mdm\\MyEShopOnWeb\\MyEShopOnWeb\\Infrastructure\\Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\yangsishui\\Documents\\GitHub\\mdm\\MyEShopOnWeb\\MyEShopOnWeb\\ApplicationCore\\ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\yangsishui\\Documents\\GitHub\\mdm\\MyEShopOnWeb\\MyEShopOnWeb\\ApplicationCore\\ApplicationCore.csproj",
+        "projectName": "ApplicationCore",
+        "projectPath": "D:\\Users\\yangsishui\\Documents\\GitHub\\mdm\\MyEShopOnWeb\\MyEShopOnWeb\\ApplicationCore\\ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\yangsishui\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\yangsishui\\Documents\\GitHub\\mdm\\MyEShopOnWeb\\MyEShopOnWeb\\ApplicationCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yangsishui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\yangsishui\\Documents\\GitHub\\mdm\\MyEShopOnWeb\\MyEShopOnWeb\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\yangsishui\\Documents\\GitHub\\mdm\\MyEShopOnWeb\\MyEShopOnWeb\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "D:\\Users\\yangsishui\\Documents\\GitHub\\mdm\\MyEShopOnWeb\\MyEShopOnWeb\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\yangsishui\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\yangsishui\\Documents\\GitHub\\mdm\\MyEShopOnWeb\\MyEShopOnWeb\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yangsishui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Users\\yangsishui\\Documents\\GitHub\\mdm\\MyEShopOnWeb\\MyEShopOnWeb\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "D:\\Users\\yangsishui\\Documents\\GitHub\\mdm\\MyEShopOnWeb\\MyEShopOnWeb\\ApplicationCore\\ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Ardalis.Specification.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

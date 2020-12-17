@@ -1,0 +1,9 @@
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.deps.json
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.dll
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.pdb
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csprojAssemblyReference.cache
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfo.cs
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.dll
+D:\Users\yangsishui\Documents\GitHub\mdm\MyEShopOnWeb\MyEShopOnWeb\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.pdb
